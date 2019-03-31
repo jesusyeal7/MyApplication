@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Price Watcher</string>
+    <string name="itemName">Item: </string>
+    <string name="initalPrice">Starting Price: </string>
+    <string name="currentPrice">Current Price: </string>
+    <string name="percent">Percent: </string>
+    <string name="but">Update</string>
+    <string name="launch">Launch To Website</string>
+    <string name="linkpassed">Link: </string>
+    <string name="about">About</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

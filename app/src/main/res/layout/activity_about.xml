@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:background="@android:color/background_dark"
+    >
+
+    <TextView
+        android:id="@+id/textView0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+
+        android:text="
+ABOUT US
+"
+        android:textColor="@android:color/white"
+        android:textSize="40dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="149dp"
+        app:srcCompat="@android:drawable/sym_def_app_icon" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My price watcher"
+        android:gravity="center_horizontal"
+        android:textSize="27dp"
+        android:textColor="@android:color/white"
+        />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Version 2.0"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:text="By Adrian Gomez and Jesus Ramos"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/white" />
+</LinearLayout>
