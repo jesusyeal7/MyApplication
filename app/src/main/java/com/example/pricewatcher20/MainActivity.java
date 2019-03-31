@@ -20,7 +20,7 @@ import java.util.ArrayList;
 
 
 import static android.content.Intent.EXTRA_TEXT;
-//this
+//this is
 public class MainActivity extends AppCompatActivity {
     private ListView listview;
     Adapter adapter;
